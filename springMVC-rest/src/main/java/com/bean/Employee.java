@@ -54,7 +54,7 @@ public class Employee {
     }
 
     public Employee() {
-        System.out.println("你好");
+        
     }
 
 }
