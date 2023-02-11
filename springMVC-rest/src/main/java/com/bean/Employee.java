@@ -1,5 +1,7 @@
 package com.bean;
 
+import java.sql.SQLOutput;
+
 /**
  * @author 刘超前 2008010217 20计科2班
  */
@@ -52,5 +54,7 @@ public class Employee {
     }
 
     public Employee() {
+        System.out.println("你好");
     }
+
 }
